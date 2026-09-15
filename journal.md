@@ -39,3 +39,6 @@ This was my CPU's temp while i was working for my keyboard so yea! i did put a l
 Lapse Link: https://lapse.hackclub.com/timelapse/amy1HCuav32q
 
 **Total time spent: 1hour 20 mins**
+
+# September 15th: Made the BOM and now submitting
+okay so i worked on the CAD and now im submitting the project i have also done the BOM thingy bill of material and totaled everything and ig now im good to goo ohh wait shoot i forgot to add the images lemme do that real rq
