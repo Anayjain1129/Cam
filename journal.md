@@ -36,6 +36,6 @@ This was my CPU's temp while i was working for my keyboard so yea! i did put a l
 <img width="1307" height="852" alt="Screenshot 2026-09-15 071746" src="https://github.com/user-attachments/assets/48e16345-680a-4596-b369-3630a158065a" />
 <img width="1672" height="696" alt="Screenshot 2026-09-15 071813" src="https://github.com/user-attachments/assets/4d9e4d04-eb3c-4716-8be4-de84a6c6b2df" />
 
-Lapse Link:
+Lapse Link: https://lapse.hackclub.com/timelapse/amy1HCuav32q
 
 **Total time spent: 1hour 20 mins**
