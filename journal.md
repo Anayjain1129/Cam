@@ -41,7 +41,7 @@ Lapse Link: https://lapse.hackclub.com/timelapse/amy1HCuav32q
 **Total time spent: 1hour 20 mins**
 
 # September 15th: Made the BOM and now submitting
-okay so i worked on the CAD and now im submitting the project i have also done the BOM thingy bill of material and totaled everything and ig now im good to goo ohh wait shoot i forgot to add the images lemme do that real rq ok so electicity went out so i have to a break ig
+okay so i worked on the CAD and now im submitting the project i have also done the BOM thingy bill of material and totaled everything and ig now im good to goo ohh wait shoot i forgot to add the images lemme do that real rq ok so electicity went out so i have to a break ig okay so im submitting it now too! im done!! yayaayieie!! 
 <img width="1189" height="721" alt="Screenshot 2026-09-15 184711" src="https://github.com/user-attachments/assets/0cef839b-ac28-4f81-87cc-ac99d27cf320" />
 
 <img width="1275" height="797" alt="Screenshot 2026-09-15 184727" src="https://github.com/user-attachments/assets/342fc822-5b13-4620-aafd-4dc150607c18" />
