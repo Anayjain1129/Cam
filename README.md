@@ -16,6 +16,21 @@ the part which was really hard was reading the datasheet i mean like vro what we
 # What about Firmware? 
 so for firmware i have just upload a very simple structural code cause like it's not really possible to write code for project without having the physical hardware of the project in the hands so yea! 
 
+# Images-
+
+# Schematics
+<img width="1826" height="869" alt="image" src="https://github.com/user-attachments/assets/87f5a8c2-8ef5-49ef-803e-e18923595145" />
+
+# PCB
+<img width="1609" height="580" alt="image" src="https://github.com/user-attachments/assets/86b662d0-f254-4d79-8e22-ef4d2a81fb71" />
+
+# CAD
+<img width="1189" height="721" alt="image" src="https://github.com/user-attachments/assets/c3f7e7fd-c9a1-419c-b99c-3f915f5cd7e1" />
+<img width="1275" height="797" alt="image" src="https://github.com/user-attachments/assets/050baeba-fd69-42fb-97fb-bc6bc92b9bd4" />
+<img width="1275" height="797" alt="image" src="https://github.com/user-attachments/assets/38990ec0-3932-4dfd-b9f7-e560f4d34148" />
+<img width="1781" height="669" alt="image" src="https://github.com/user-attachments/assets/d582de18-5823-4849-81b4-b26178de2c28" />
+
+
 # BOM
 
 | Item | Qty | Price (USD) | Source |
