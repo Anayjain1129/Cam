@@ -18,6 +18,23 @@ so for firmware i have just upload a very simple structural code cause like it's
 
 # BOM
 
+| Item | Qty | Price (USD) | Source |
+|---|---|---|---|
+| ESP32-S3 (Seeed XIAO Sense) | 1 | $25.40 | [Robodo](https://robodo.in/products/seeed-studio-xiao-esp32s3-sense-2-4ghz-wi-fi-ble-5-0-ov2640-camera-sensor-digital-microphone-battery-charge-supported-rich-interface-iot-embedded-ml?variant=44827345879240) |
+| Li-ion Battery | 1 | — | Self-sourced |
+| Battery holder | 1 | $1.00 | [Amazon](https://www.amazon.in/gp/product/B0D6YYMF9R/) |
+| SPST Slide switch | 1 | $0.82 | [Amazon](https://www.amazon.in/gp/product/B08S6XSBBD/) |
+| ESP32-S3 Super Mini | 1 | $7.30 | [Amazon](https://www.amazon.in/Autables-ESP32-S3-Supermini-Development-Bluetooth/dp/B0H8YMNKHL/) |
+| 1.8" TFT display | 1 | $4.70 | [Amazon](https://www.amazon.in/ROBODUINO-Without-Screen-Module-Resolution/dp/B0H688V2MF/) |
+| Micro SD Card | 1 | — | Self-sourced |
+| Switches | 3 | — | Self-sourced |
+| Keycaps | 3 | — | 3D printed |
+| 100nF Capacitor | 1 | — | Self-sourced |
+| 10nF Capacitor | 1 | — | Self-sourced |
+| PCB | 5 | $13.90 | [JLCPCB](https://jlcpcb.com) |
+
+**Total (excl. self-sourced parts): ~$53.12**
+
 # How is case gonna be printed?
 The case is gonna be printed by my Bambu Lab A1 mini 
 
